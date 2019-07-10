@@ -1,8 +1,10 @@
-# TourApp
+# Park Ninja
 Creates an optimized daily schedule for a Magic Kingdom park aimed at novice users while also allowing experieced users to customize their schedule. 
 
+# DEMO URL
+https://jbambei.github.io/TourApp/start.html
 
-#Presentation
+# Presentation
 
 Corey:
 problem: I am a tour guide for disney. I know my way around the parks extremely well as a result, but obviously not everyone does. Anyone who has spent even a little time in one of Disney's many parks knows that it can be kind of daunting to decide where to go, let alone the entirely different level of when to go to have the shortest lines, how to go through the park to get on the most rides or which rides are the best and should be prioritized.  This leads to most people not getting the most magic out of their day at Disney. But there is now a better way to get the most magical experience possible.
